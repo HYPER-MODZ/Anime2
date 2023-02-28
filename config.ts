@@ -1,6 +1,6 @@
 const config: Config = {
 
-    mode: 'AI_PAINTING_ANIME', // 'DIFFERENT_DIMENSION_ME' | 'AI_PAINTING_ANIME'
+    mode: 'DIFFERENT_DIMENSION_ME', // 'DIFFERENT_DIMENSION_ME' | 'AI_PAINTING_ANIME'
 
     botToken: '5778803513:AAGqTkyF--atxLBdKisq4xx6YXgFUvSiUW8',
 
@@ -50,7 +50,7 @@ const config: Config = {
 
     parallelRequests: 10,
 
-    // proxyUrl: 'socks5://:HIA:HIA@221.219.97.242:1080',
+    proxyUrl: 'socks5://:HIA:HIA@221.219.97.242:1080',
 
 };
 
